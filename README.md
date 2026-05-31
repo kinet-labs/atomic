@@ -1,4 +1,4 @@
-# atomic [![GoDoc][doc-img]][doc] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov] [![Go Report Card][reportcard-img]][reportcard]
+# atomic
 
 Simple wrappers for primitive types to enforce atomic access.
 
