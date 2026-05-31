@@ -1,0 +1,2 @@
+# atomic
+Simple wrappers for primitive types to enforce atomic access.
